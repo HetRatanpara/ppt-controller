@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#1976D2</color>      <!-- Deep Blue -->
+    <color name="orange">#F57C00</color>    <!-- Dark Orange -->
+    <color name="green">#388E3C</color>     <!-- Deep Green -->
+    <color name="purple">#7B1FA2</color>    <!-- Dark Purple -->
+    <color name="red">#D32F2F</color>       <!-- Deep Red -->
+    <color name="black">#212121</color>     <!-- Dark Gray (Blackish) -->
+    <color name="white">#FFFFFF</color>     <!-- White -->
+    <color name="gray">#BDBDBD</color>      <!-- Light Gray -->
+
+
+</resources>
